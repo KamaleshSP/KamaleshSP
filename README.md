@@ -31,7 +31,9 @@
 <p>
 <div style="position:relative; display:inline-block;">
   <img src="https://img.icons8.com/ios-filled/24/ffffff/visible--v1.png" alt="eye" height="18" width="18" style="display:block;" style="position:absolute; left:0; top:0;" />
-  <img src="https://komarev.com/ghpvc/?username=KamaleshSP&label=Profile%20views&color=0e75b6&style=flat" alt="KamaleshSP" style="position:absolute; left:0; top:0;" />
+  <img src="https://komarev.com/ghpvc/?username=KamaleshSP&color=0e75b6&style=flat"
+       alt="Profile views"
+       style="margin-left:-4px; border-radius:0 4px 4px 0;" />
 </div>
 </p>
 
