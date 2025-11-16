@@ -2,17 +2,27 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+Kamalesh+Suresh+Kumar;+Aspiring+Full+Stack+Developer" />
 </h1>
 
+---
+
 <h3 align="center">
-  Aspiring Full Stack Developer & Ethical Hacker | Shaastra’25 IITM Finalist | Pre-Final Year @ Rajalakshmi Engineering College
+    Aspiring Full Stack Developer & Ethical Hacker | Shaastra’25 IITM Finalist | Pre-Final Year @ Rajalakshmi Engineering College
 </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KamaleshSP&label=Profile%20views&color=0e75b6&style=flat" alt="KamaleshSP" />
+---
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=KamaleshSP&label=Profile%20views&color=0e75b6&style=flat" alt="KamaleshSP" />
+    <img src="https://img.shields.io/badge/Mission-Top%20MNCs-blueviolet?style=for-the-badge&logo=target" />
+    <img src="https://img.shields.io/badge/Projects-In%20Progress-yellow?style=for-the-badge&logo=progress" />
 </p>
+
+---
 
 - 🌱 I’m currently learning **Cyber Security and Ethical Hacking**
 
 - 💬 Ask me about **Networking, Database, Full Stack Development**
+
+---
 
 <h3 align="left">
   Connect with me:
