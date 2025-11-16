@@ -8,7 +8,10 @@
 
 ---
 
-<p align="center">
+<p align="center" style="line-height:1;">
+    <span style="display:inline-block;background:#2f3234;padding:6px;border-radius:4px;margin-right:6px;vertical-align:middle;">
+        <img src="https://img.icons8.com/ios-filled/24/ffffff/visible--v1.png" alt="eye" height="18" width="18" style="display:block;" />
+    </span>
     <img src="https://komarev.com/ghpvc/?username=KamaleshSP&label=Profile%20views&color=0e75b6&style=flat&logo=eye" alt="KamaleshSP" />
     <img src="https://img.shields.io/badge/Mission-Top%20MNCs-blueviolet?style=flat&logo=target" />
     <img src="https://img.shields.io/badge/Projects-In%20Progress-yellow?style=flat&logo=progress" />
