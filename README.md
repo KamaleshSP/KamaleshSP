@@ -17,9 +17,53 @@
 
 ---
 
-- 🌱 I’m currently learning **Cyber Security and Ethical Hacking**
+- 🌱 I’m currently learning **Cyber Security and Ethical Hacking**.
+- 💬 Ask me about **Networking, Database, Full Stack Development**.
 
-- 💬 Ask me about **Networking, Database, Full Stack Development**
+---
+
+## 🧠 Summary
+
+- A dedicated and enthusiastic developer who thrives on solving new challenges. 
+- Recognized for adaptability, a strong work ethic, and excellent communication skills. 
+- Learns quickly and performs confidently in both independent and collaborative environments.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:**  
+`Python` `C++` `C` `Java` `Kotlin` `R` `HTML` `CSS` `JavaScript` `TypeScript`
+
+**Frameworks & Libraries:**  
+`Django` `Node.js` `Express.js` `TensorFlow` `PyTorch` `Scikit-learn` `Pygame` `Selenium`
+
+**Databases:**  
+`MySQL` `MongoDB` `PostgreSQL`
+
+---
+
+## 🧩 Key Skills
+
+- Teamwork & Collaboration  
+- Leadership  
+- Critical Thinking  
+- Research & Problem Solving  
+- Adaptability  
+- Friendly & Positive Attitude  
+- Fast Learner
+- Multitasking
+- Time Management
+- Cross-functional Collaboration
+- Open-mindedness
+
+---
+
+>A great developer isn’t the one who writes the most code, but the one who removes the most unnecessary lines.
+
+---
+
+Check out my projects and contributions on [GitHub →](https://github.com/Kamalesh-SureshKumar)
 
 ---
 
@@ -27,19 +71,16 @@
     Connect with Me, Visit:
 </h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/kamalesh-sp" target="_blank" style="text-decoration:none; display:inline-block;">
+    <a href="https://www.linkedin.com/in/kamalesh-sp" target="_blank" >
         <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" height="50" width="50" style="border-radius:50%; padding:10px; background:#0e1116; box-shadow:0 0 12px #00aaff;" />
     </a>
-    <a href="https://github.com/Kamalesh-SureshKumar" target="_blank" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" height="50" width="50" style="border-radius:50%; padding:10px; background:#0e1116; box-shadow:0 0 12px #00aaff;" />
-    </a>
-    <a href="https://www.instagram.com/kamalesh.s.p/" target="_blank" style="text-decoration: none;">
+    <a href="https://www.instagram.com/kamalesh.s.p/" target="_blank" >
         <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" height="50" width="50" style="border-radius:50%; padding:10px; background:#0e1116; box-shadow:0 0 12px #00aaff;" />
     </a>
-    <a href="https://mail.google.com/mail/?view=cm&to=kamalsuresh2005@gmail.com" target="_blank" style="text-decoration: none;">
+    <a href="https://mail.google.com/mail/?view=cm&to=kamalsuresh2005@gmail.com" target="_blank" >
         <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" height="50" width="50" style="border-radius:50%; padding:10px; background:#0e1116; box-shadow:0 0 12px #00aaff;" />
     </a>
-    <a href="https://discordapp.com/users/1256675555294838998" target="_blank" style="text-decoration: none;">
+    <a href="https://discordapp.com/users/1256675555294838998" target="_blank" >
         <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" height="50" width="50" style="border-radius:50%; padding:10px; background:#0e1116; box-shadow:0 0 12px #00aaff;" />
     </a>
 </p>
