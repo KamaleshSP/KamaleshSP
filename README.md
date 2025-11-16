@@ -8,11 +8,21 @@
 
 ---
 
-<p align="center" style="line-height:1;">
-    <span style="display:inline-block;background:#2f3234;padding:6px;border-radius:4px;margin-right:6px;vertical-align:middle;">
-        <img src="https://img.icons8.com/ios-filled/24/ffffff/visible--v1.png" alt="eye" height="18" width="18" style="display:block;" />
-    </span>
-    <img src="https://img.shields.io/badge/Profile%20views-90-0e75b6?style=flat&logo=material-symbols:visibility&logoColor=white" />
+<p align="center">
+    <span style="
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      padding:6px 10px;
+      background:#5a5a5a;
+      color:white;
+      font-size:14px;
+      border-radius:4px 0 0 4px;
+      height:20px;
+    ">
+      <img src="https://img.icons8.com/ios-glyphs/30/ffffff/visible.png"
+           width="16" height="16" alt="eye"/>
+  </span>
     <img src="https://komarev.com/ghpvc/?username=KamaleshSP&label=Profile%20views&color=0e75b6&style=flat" alt="KamaleshSP" />
     <img src="https://img.shields.io/badge/Mission-Top%20MNCs-blueviolet?style=flat&logo=target" />
     <img src="https://img.shields.io/badge/Projects-In%20Progress-yellow?style=flat&logo=progress" />
