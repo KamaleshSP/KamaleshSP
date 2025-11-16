@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KamaleshSP&label=Profile%20views&color=0e75b6&style=flat&logo=eye&logoColor=white" alt="KamaleshSP" />
+    <img src="https://komarev.com/ghpvc/?username=KamaleshSP&label=Profile%20views&color=0e75b6&style=flat&logo=eye" alt="KamaleshSP" />
     <img src="https://img.shields.io/badge/Mission-Top%20MNCs-blueviolet?style=flat&logo=target" />
     <img src="https://img.shields.io/badge/Projects-In%20Progress-yellow?style=flat&logo=progress" />
 </p>
