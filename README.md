@@ -27,19 +27,19 @@
     Connect with Me, Visit:
 </h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/kamalesh-sp" target="_blank style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/kamalesh-sp" target="_blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" height="50" width="50" style="border-radius:50%; padding:10px; background:#0e1116; box-shadow:0 0 12px #00aaff;" />
     </a>
-    <a href="https://github.com/Kamalesh-SureshKumar" target="_blank style="text-decoration: none;">
+    <a href="https://github.com/Kamalesh-SureshKumar" target="_blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" height="50" width="50" style="border-radius:50%; padding:10px; background:#0e1116; box-shadow:0 0 12px #00aaff;" />
     </a>
-    <a href="https://www.instagram.com/kamalesh.s.p/" target="_blank style="text-decoration: none;">
+    <a href="https://www.instagram.com/kamalesh.s.p/" target="_blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" height="50" width="50" style="border-radius:50%; padding:10px; background:#0e1116; box-shadow:0 0 12px #00aaff;" />
     </a>
-    <a href="https://mail.google.com/mail/?view=cm&to=kamalsuresh2005@gmail.com" target="_blank style="text-decoration: none;">
+    <a href="https://mail.google.com/mail/?view=cm&to=kamalsuresh2005@gmail.com" target="_blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" height="50" width="50" style="border-radius:50%; padding:10px; background:#0e1116; box-shadow:0 0 12px #00aaff;" />
     </a>
-    <a href="https://discordapp.com/users/1256675555294838998" target="_blank style="text-decoration: none;">
+    <a href="https://discordapp.com/users/1256675555294838998" target="_blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" height="50" width="50" style="border-radius:50%; padding:10px; background:#0e1116; box-shadow:0 0 12px #00aaff;" />
     </a>
 </p>
