@@ -60,15 +60,19 @@
 
 # 📊 Coding Dashboard
 
-## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/ja5Idde5NU?theme=dark&font=Roboto&ext=heatmap)
-
----
-
 ## 💻 HackerRank Profile
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/h2307011381)
 
 ![HackerRank Stats](https://readme-profile-hackerrank.vercel.app/api?husername=h2307011381)
+
+<iframe src="https://hackerrank-badge.herokuapp.com/h2307011381?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+
+---
+
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/ja5Idde5NU?theme=dark&font=Roboto&ext=heatmap)
+
+>I just started my new profile on another platform called LeetCode
 
 ---
 
