@@ -58,11 +58,34 @@
 
 ---
 
+# 📊 Coding Dashboard
+
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/ja5Idde5NU?theme=dark&font=Roboto&ext=heatmap)
+
+---
+
+## 💻 HackerRank Profile
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/h2307011381)
+
+![HackerRank Stats](https://readme-profile-hackerrank.vercel.app/api?husername=h2307011381)
+
+---
+
+## 🚀 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamaleshSP&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamaleshSP&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KamaleshSP&theme=tokyonight)
+
+---
+
 >A great developer isn’t the one who writes the most code, but the one who removes the most unnecessary lines.
 
 ---
 
-Check out my projects and contributions on [GitHub →](https://github.com/Kamalesh-SureshKumar)
+Check out my projects and contributions on my [Personal GitHub](https://github.com/Kamalesh-SureshKumar)
 
 ---
 
