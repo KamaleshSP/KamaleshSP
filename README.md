@@ -69,7 +69,7 @@
 ---
 
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/ja5Idde5NU?theme=dark&font=Roboto&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ja5Idde5NU?theme=dark&font=Akshar&ext=activity)
 
 >I just started my new profile on another platform called LeetCode
 
