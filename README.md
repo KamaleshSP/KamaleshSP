@@ -63,6 +63,11 @@
 ## 💻 HackerRank Profile
 
 [![HackerRank-Badge](https://hackerrank-badges.hierar.ch/badge/h2307011381)](https://www.hackerrank.com/h2307011381)
+
+<a href="https://www.hackerrank.com/h2307011381">
+  <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-00EA64?style=flat&logo=HackerRank&logoColor=white" />
+</a>
+
 ---
 
 ## 🧠 LeetCode Stats
