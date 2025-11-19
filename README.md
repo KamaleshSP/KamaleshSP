@@ -58,20 +58,18 @@
 
 ---
 
-# 📊 Coding Dashboard
+## 📊 Coding Dashboard
 
-## 💻 HackerRank Profile
+<p align="center">
+    <a href="https://www.hackerrank.com/h2307011381">
+        <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-00EA64?style=flat&logo=HackerRank&logoColor=white" />
+    </a>
+    <a href="https://leetcode.com/u/ja5Idde5NU">
+        <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+    </a>
+</p>
 
-<a href="https://www.hackerrank.com/h2307011381">
-  <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-00EA64?style=flat&logo=HackerRank&logoColor=white" />
-</a>
-
----
-
-## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/ja5Idde5NU?theme=dark&font=Akshar&ext=activity)
-
->I just started my new profile on another platform called LeetCode
+>I just started my new profile on another platform called LeetCode.
 
 ---
 
@@ -80,7 +78,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamaleshSP&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KamaleshSP&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KamaleshSP&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
