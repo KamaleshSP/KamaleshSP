@@ -75,10 +75,10 @@
 
 ## 🚀 GitHub Stats
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KamaleshSP&show_icons=true&locale=en&layout=compact" alt="KamaleshSP" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KamaleshSP&show_icons=true&locale=en" alt="KamaleshSP" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KamaleshSP&" alt="KamaleshSP" />
+<p align="center">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=KamaleshSP&show_icons=true&locale=en&layout=compact" alt="KamaleshSP" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=KamaleshSP&show_icons=true&locale=en" alt="KamaleshSP" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KamaleshSP&" alt="KamaleshSP" />
 </p>
 
 ---
