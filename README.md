@@ -62,10 +62,10 @@
 
 <p align="center">
     <a href="https://www.hackerrank.com/h2307011381">
-        <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+        <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" />
     </a>
     <a href="https://leetcode.com/u/ja5Idde5NU">
-        <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+        <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" />
     </a>
 </p>
 
@@ -76,9 +76,9 @@
 ## 🚀 GitHub Stats
 
 <p align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=KamaleshSP&show_icons=true&locale=en&layout=compact" alt="KamaleshSP" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=KamaleshSP&show_icons=true&locale=en" alt="KamaleshSP" />
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KamaleshSP&" alt="KamaleshSP" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=KamaleshSP&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KamaleshSP&show_icons=true&locale=en" alt="stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KamaleshSP" alt="streak" />
 </p>
 
 ---
