@@ -77,8 +77,12 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KamaleshSP&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KamaleshSP&show_icons=true&locale=en" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamaleshSP" alt="streak" />
+</p>
+<p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=KamaleshSP&show_icons=true&locale=en" alt="stats" />
+</p>
+<p align="right">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamaleshSP" alt="streak" />
 </p>
 
 ---
