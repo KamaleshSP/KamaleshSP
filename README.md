@@ -71,7 +71,6 @@
 ## 👀 Project Tracker
 
 <h1 align="center">Projects Done/In Progress</h1>
-
 <div>
     <table>
         <thead>
@@ -166,7 +165,7 @@
 
 > Note: A replacement for `nil` will be implemented once the project is complete.
 
-
+---
 
 <h1 align="center">Future Projects</h1>
 
