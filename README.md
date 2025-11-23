@@ -71,90 +71,90 @@
 ## ✅ Project Tracker
 
 <h1 align="center">Projects Done/In Progress</h1>
-<div style="margin: 2em auto; max-width: 100%;">
-<table style="margin: 2em auto; border-collapse: collapse; width: 100%;" cellpadding="8" cellspacing="0">
+<div>
+<table>
   <thead>
     <tr>
-      <th style="border-bottom: 1px solid #ddd; text-align:center; padding: 16px;">Sl. No.</th>
-      <th style="border-bottom: 1px solid #ddd; text-align:center; padding: 16px;">Project Title</th>
-      <th style="border-bottom: 1px solid #ddd; text-align:center; padding: 16px;">Tools / Tech Stack</th>
-      <th style="border-bottom: 1px solid #ddd; text-align:center; padding: 16px;">Status</th>
-      <th style="border-bottom: 1px solid #ddd; text-align:center; padding: 16px;">Description</th>
-      <th style="border-bottom: 1px solid #ddd; text-align:center; padding: 16px;">Where I Got It</th>
-      <th style="border-bottom: 1px solid #ddd; text-align:center; padding: 16px;">Deployment Link</th>
-      <th style="border-bottom: 1px solid #ddd; text-align:center; padding: 16px;">Source Code Link</th>
+      <th style="text-align:center;">Sl. No.</th>
+      <th style="text-align:center;">Project Title</th>
+      <th style="text-align:center;">Tools / Tech Stack</th>
+      <th style="text-align:center;">Status</th>
+      <th style="text-align:center;">Description</th>
+      <th style="text-align:center;">Where I Got It</th>
+      <th style="text-align:center;">Deployment Link</th>
+      <th style="text-align:center;">Source Code Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center; padding: 16px;">1</td>
-      <td style="text-align:left; padding: 16px;">Money Transfer System</td>
-      <td style="text-align:left; padding: 16px;">MySQL + Java</td>
-      <td style="text-align:left; padding: 16px;">In Progress</td>
-      <td style="text-align:left; padding: 16px;">Basic practice for money transfers</td>
-      <td style="text-align:left; padding: 16px;">III Sem Mini Project</td>
-      <td style="text-align:left; padding: 16px;">nil</td>
-      <td style="text-align:left; padding: 16px;"><a href="https://github.com/Kamalesh-SureshKumar/Money-Transfer-System">source</a></td>
+      <td style="text-align:center;">1</td>
+      <td style="text-align:left;">Money Transfer System</td>
+      <td style="text-align:left;">MySQL + Java</td>
+      <td style="text-align:left;">In Progress</td>
+      <td style="text-align:left;">Basic practice for money transfers</td>
+      <td style="text-align:left;">III Sem Mini Project</td>
+      <td style="text-align:left;">nil</td>
+      <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/Money-Transfer-System">source</a></td>
     </tr>
     <tr>
-      <td style="text-align:center; padding: 16px;">2</td>
-      <td style="text-align:left; padding: 16px;">Real Time Credit Risk Analysis</td>
-      <td style="text-align:left; padding: 16px;">HTML + CSS</td>
-      <td style="text-align:left; padding: 16px;">In Research & Progress</td>
-      <td style="text-align:left; padding: 16px;">Alternative score analyzer for loan approval</td>
-      <td style="text-align:left; padding: 16px;">24 Hours Shaastra Hackathon '25</td>
-      <td style="text-align:left; padding: 16px;">nil</td>
-      <td style="text-align:left; padding: 16px;"><a href="https://github.com/Kamalesh-SureshKumar/REAL-TIME-CREDIT-RISK-ANALYSIS">source</a></td>
+      <td style="text-align:center;">2</td>
+      <td style="text-align:left;">Real Time Credit Risk Analysis</td>
+      <td style="text-align:left;">HTML + CSS</td>
+      <td style="text-align:left;">In Research & Progress</td>
+      <td style="text-align:left;">Alternative score analyzer for loan approval</td>
+      <td style="text-align:left;">24 Hours Shaastra Hackathon '25</td>
+      <td style="text-align:left;">nil</td>
+      <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/REAL-TIME-CREDIT-RISK-ANALYSIS">source</a></td>
     </tr>
     <tr>
-      <td style="text-align:center; padding: 16px;">3</td>
-      <td style="text-align:left; padding: 16px;">AI Based Credit Score & Loan Application</td>
-      <td style="text-align:left; padding: 16px;">MERN</td>
-      <td style="text-align:left; padding: 16px;">In Progress & Research</td>
-      <td style="text-align:left; padding: 16px;">Platform for alternative credit scoring for loan approvals</td>
-      <td style="text-align:left; padding: 16px;">IV Sem Mini Project</td>
-      <td style="text-align:left; padding: 16px;">nil</td>
-      <td style="text-align:left; padding: 16px;"><a href="https://github.com/Kamalesh-SureshKumar/AI-Based-Credit-Score-Loan-Application">source</a></td>
+      <td style="text-align:center;">3</td>
+      <td style="text-align:left;">AI Based Credit Score & Loan Application</td>
+      <td style="text-align:left;">MERN</td>
+      <td style="text-align:left;">In Progress & Research</td>
+      <td style="text-align:left;">Platform for alternative credit scoring for loan approvals</td>
+      <td style="text-align:left;">IV Sem Mini Project</td>
+      <td style="text-align:left;">nil</td>
+      <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/AI-Based-Credit-Score-Loan-Application">source</a></td>
     </tr>
     <tr>
-      <td style="text-align:center; padding: 16px;">4</td>
-      <td style="text-align:left; padding: 16px;">Student Counseling System</td>
-      <td style="text-align:left; padding: 16px;">MERN</td>
-      <td style="text-align:left; padding: 16px;">In Research</td>
-      <td style="text-align:left; padding: 16px;">Online counseling system for students</td>
-      <td style="text-align:left; padding: 16px;">IV Sem Mini Project</td>
-      <td style="text-align:left; padding: 16px;">nil</td>
-      <td style="text-align:left; padding: 16px;"><a href="https://github.com/Kamalesh-SureshKumar/Student-Counseling-System">source</a></td>
+      <td style="text-align:center;">4</td>
+      <td style="text-align:left;">Student Counseling System</td>
+      <td style="text-align:left;">MERN</td>
+      <td style="text-align:left;">In Research</td>
+      <td style="text-align:left;">Online counseling system for students</td>
+      <td style="text-align:left;">IV Sem Mini Project</td>
+      <td style="text-align:left;">nil</td>
+      <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/Student-Counseling-System">source</a></td>
     </tr>
     <tr>
-      <td style="text-align:center; padding: 16px;">5</td>
-      <td style="text-align:left; padding: 16px;">AI Based Student Attentiveness Monitor</td>
-      <td style="text-align:left; padding: 16px;">Python + ML/DL</td>
-      <td style="text-align:left; padding: 16px;">Completed</td>
-      <td style="text-align:left; padding: 16px;">Student attentiveness monitor for online classes</td>
-      <td style="text-align:left; padding: 16px;">IV Sem Internship Project</td>
-      <td style="text-align:left; padding: 16px;">nil</td>
-      <td style="text-align:left; padding: 16px;"><a href="https://github.com/Kamalesh-SureshKumar/AI-Based-Student-Attentiveness-Monitoring-System">source</a></td>
+      <td style="text-align:center;">5</td>
+      <td style="text-align:left;">AI Based Student Attentiveness Monitor</td>
+      <td style="text-align:left;">Python + ML/DL</td>
+      <td style="text-align:left;">Completed</td>
+      <td style="text-align:left;">Student attentiveness monitor for online classes</td>
+      <td style="text-align:left;">IV Sem Internship Project</td>
+      <td style="text-align:left;">nil</td>
+      <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/AI-Based-Student-Attentiveness-Monitoring-System">source</a></td>
     </tr>
     <tr>
-      <td style="text-align:center; padding: 16px;">6</td>
-      <td style="text-align:left; padding: 16px;">Web Platform for Street Vendor</td>
-      <td style="text-align:left; padding: 16px;">React + Django + SQLite + Render</td>
-      <td style="text-align:left; padding: 16px;">Completed</td>
-      <td style="text-align:left; padding: 16px;">Online platform like WhatsApp for business communication</td>
-      <td style="text-align:left; padding: 16px;">48 Hours Tutedude’s Web Development Hackathon '1.0</td>
-      <td style="text-align:left; padding: 16px;"><a href="https://freshlink-main.netlify.app/">deployment</a></td>
-      <td style="text-align:left; padding: 16px;"><a href="https://github.com/lingaa005/freshlink-final-code">source</a></td>
+      <td style="text-align:center;">6</td>
+      <td style="text-align:left;">Web Platform for Street Vendor</td>
+      <td style="text-align:left;">React + Django + SQLite + Render</td>
+      <td style="text-align:left;">Completed</td>
+      <td style="text-align:left;">Online platform like WhatsApp for business communication</td>
+      <td style="text-align:left;">48 Hours Tutedude’s Web Development Hackathon '1.0</td>
+      <td style="text-align:left;"><a href="https://freshlink-main.netlify.app/">deployment</a></td>
+      <td style="text-align:left;"><a href="https://github.com/lingaa005/freshlink-final-code">source</a></td>
     </tr>
     <tr>
-      <td style="text-align:center; padding: 16px;">7</td>
-      <td style="text-align:left; padding: 16px;">AI Based Food Nutrition Analysis</td>
-      <td style="text-align:left; padding: 16px;">Python + Gemini AI</td>
-      <td style="text-align:left; padding: 16px;">Completed (2 versions)</td>
-      <td style="text-align:left; padding: 16px;">Basic food nutrition analysis with AI</td>
-      <td style="text-align:left; padding: 16px;">V Sem Mini Project</td>
-      <td style="text-align:left; padding: 16px;">nil</td>
-      <td style="text-align:left; padding: 16px;">
+      <td style="text-align:center;">7</td>
+      <td style="text-align:left;">AI Based Food Nutrition Analysis</td>
+      <td style="text-align:left;">Python + Gemini AI</td>
+      <td style="text-align:left;">Completed (2 versions)</td>
+      <td style="text-align:left;">Basic food nutrition analysis with AI</td>
+      <td style="text-align:left;">V Sem Mini Project</td>
+      <td style="text-align:left;">nil</td>
+      <td style="text-align:left;">
         <a href="https://github.com/Kamalesh-SureshKumar/nutrition-analyzer-flash">1. Nutrition Analyzer Flash</a><br>
         <a href="https://github.com/Kamalesh-SureshKumar/nutrition-analyzer-pro">2. Nutrition Analyzer Pro</a>
       </td>
@@ -165,123 +165,7 @@
 
 > _Note:_ Replacement for `nil` will be done once the project is completed...
 
-<h1 align="center">Projects Done/In Progress</h1>
 
-<div style="margin: 2em auto; max-width: 100%;">
-
-<table style="
-    margin: 2em auto;
-    border-collapse: collapse;
-    width: 100%;
-    border: 4px double blue;
-">
-  <thead>
-    <tr style="border: 4px double blue;">
-      <th style="border: 4px double blue; text-align:center; padding: 16px;">Sl. No.</th>
-      <th style="border: 4px double blue; text-align:center; padding: 16px;">Project Title</th>
-      <th style="border: 4px double blue; text-align:center; padding: 16px;">Tools / Tech Stack</th>
-      <th style="border: 4px double blue; text-align:center; padding: 16px;">Status</th>
-      <th style="border: 4px double blue; text-align:center; padding: 16px;">Description</th>
-      <th style="border: 4px double blue; text-align:center; padding: 16px;">Where I Got It</th>
-      <th style="border: 4px double blue; text-align:center; padding: 16px;">Deployment Link</th>
-      <th style="border: 4px double blue; text-align:center; padding: 16px;">Source Code Link</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <!-- Rows start -->
-    <tr>
-      <td style="border: 4px double blue; text-align:center; padding: 16px;">1</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">Money Transfer System</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">MySQL + Java</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">In Progress</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">Basic practice for money transfers</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">III Sem Mini Project</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">nil</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">
-        <a href="https://github.com/Kamalesh-SureshKumar/Money-Transfer-System">source</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 4px double blue; text-align:center; padding: 16px;">2</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">Real Time Credit Risk Analysis</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">HTML + CSS</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">In Research & Progress</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">Alternative score analyzer for loan approval</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">24 Hours Shaastra Hackathon '25</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">nil</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">
-        <a href="https://github.com/Kamalesh-SureshKumar/REAL-TIME-CREDIT-RISK-ANALYSIS">source</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 4px double blue; text-align:center; padding: 16px;">3</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">AI Based Credit Score & Loan Application</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">MERN</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">In Progress & Research</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">Platform for alternative credit scoring for loan approvals</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">IV Sem Mini Project</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">nil</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">
-        <a href="https://github.com/Kamalesh-SureshKumar/AI-Based-Credit-Score-Loan-Application">source</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 4px double blue; text-align:center; padding: 16px;">4</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">Student Counseling System</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">MERN</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">In Research</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">Online counseling system for students</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">IV Sem Mini Project</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">nil</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">
-        <a href="https://github.com/Kamalesh-SureshKumar/Student-Counseling-System">source</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 4px double blue; text-align:center; padding: 16px;">5</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">AI Based Student Attentiveness Monitor</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">Python + ML/DL</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">Completed</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">Student attentiveness monitor for online classes</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">IV Sem Internship Project</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">nil</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">
-        <a href="https://github.com/Kamalesh-SureshKumar/AI-Based-Student-Attentiveness-Monitoring-System">source</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 4px double blue; text-align:center; padding: 16px;">6</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">Web Platform for Street Vendor</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">React + Django + SQLite + Render</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">Completed</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">Online platform like WhatsApp for business communication</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">48 Hours Tutedude’s Hackathon 1.0</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">
-        <a href="https://freshlink-main.netlify.app/">deployment</a>
-      </td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">
-        <a href="https://github.com/lingaa005/freshlink-final-code">source</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 4px double blue; text-align:center; padding: 16px;">7</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">AI Based Food Nutrition Analysis</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">Python + Gemini AI</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">Completed (2 versions)</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">Basic food nutrition analysis with AI</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">V Sem Mini Project</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">nil</td>
-      <td style="border: 4px double blue; text-align:left; padding: 16px;">
-        <a href="https://github.com/Kamalesh-SureshKumar/nutrition-analyzer-flash">1. Flash</a><br>
-        <a href="https://github.com/Kamalesh-SureshKumar/nutrition-analyzer-pro">2. Pro</a>
-      </td>
-    </tr>
-
-  </tbody>
-</table>
-
-</div>
 
 ---
 
