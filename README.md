@@ -29,6 +29,16 @@
 
 ---
 
+## 📞 Contact
+
+- 📱 Phone: +91 636 963 8817  
+- 📧 Email: [kamalsuresh2005@gmail.com](mailto:kamalsuresh2005@gmail.com)  
+- 🏠 Address: No. 1A, H. B. Nagar, Near Masudhi, Melnallathur, Thiruvallur - 602 002  
+- 🔗 Personal GitHub: [Mini Projects, Projects](https://github.com/Kamalesh-SureshKumar)
+- 🔗 College GitHub: [Mini Projects, Records](https://github.com/KamaleshSP)
+
+---
+
 ## 🛠️ Technical Skills
 
 **Languages:**  
