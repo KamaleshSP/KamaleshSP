@@ -145,8 +145,8 @@
       <td style="text-align:left; padding: 16px;">V Sem Mini Project</td>
       <td style="text-align:left; padding: 16px;">nil</td>
       <td style="text-align:left; padding: 16px;">
-        <a href="https://github.com/Kamalesh-SureshKumar/nutrition-analyzer-flash">Nutrition Analyzer Flash</a><br>
-        <a href="https://github.com/Kamalesh-SureshKumar/nutrition-analyzer-pro">Nutrition Analyzer Pro</a>
+        <a href="https://github.com/Kamalesh-SureshKumar/nutrition-analyzer-flash">1. Nutrition Analyzer Flash</a><br>
+        <a href="https://github.com/Kamalesh-SureshKumar/nutrition-analyzer-pro">2. Nutrition Analyzer Pro</a>
       </td>
     </tr>
   </tbody>
