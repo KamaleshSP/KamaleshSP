@@ -72,98 +72,98 @@
 
 <h1 align="center">Projects Done/In Progress</h1>
 <div>
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center;">Sl. No.</th>
-      <th style="text-align:center;">Project Title</th>
-      <th style="text-align:center;">Tools / Tech Stack</th>
-      <th style="text-align:center;">Status</th>
-      <th style="text-align:center;">Description</th>
-      <th style="text-align:center;">Where I Got It</th>
-      <th style="text-align:center;">Deployment Link</th>
-      <th style="text-align:center;">Source Code Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center;">1</td>
-      <td style="text-align:left;">Money Transfer System</td>
-      <td style="text-align:left;">MySQL + Java</td>
-      <td style="text-align:left;">In Progress</td>
-      <td style="text-align:left;">Basic practice for money transfers</td>
-      <td style="text-align:left;">III Sem Mini Project</td>
-      <td style="text-align:left;">nil</td>
-      <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/Money-Transfer-System">source</a></td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">2</td>
-      <td style="text-align:left;">Real Time Credit Risk Analysis</td>
-      <td style="text-align:left;">HTML + CSS</td>
-      <td style="text-align:left;">In Research & Progress</td>
-      <td style="text-align:left;">Alternative score analyzer for loan approval</td>
-      <td style="text-align:left;">24 Hours Shaastra Hackathon '25</td>
-      <td style="text-align:left;">nil</td>
-      <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/REAL-TIME-CREDIT-RISK-ANALYSIS">source</a></td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">3</td>
-      <td style="text-align:left;">AI Based Credit Score & Loan Application</td>
-      <td style="text-align:left;">MERN</td>
-      <td style="text-align:left;">In Progress & Research</td>
-      <td style="text-align:left;">Platform for alternative credit scoring for loan approvals</td>
-      <td style="text-align:left;">IV Sem Mini Project</td>
-      <td style="text-align:left;">nil</td>
-      <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/AI-Based-Credit-Score-Loan-Application">source</a></td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">4</td>
-      <td style="text-align:left;">Student Counseling System</td>
-      <td style="text-align:left;">MERN</td>
-      <td style="text-align:left;">In Research</td>
-      <td style="text-align:left;">Online counseling system for students</td>
-      <td style="text-align:left;">IV Sem Mini Project</td>
-      <td style="text-align:left;">nil</td>
-      <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/Student-Counseling-System">source</a></td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">5</td>
-      <td style="text-align:left;">AI Based Student Attentiveness Monitor</td>
-      <td style="text-align:left;">Python + ML/DL</td>
-      <td style="text-align:left;">Completed</td>
-      <td style="text-align:left;">Student attentiveness monitor for online classes</td>
-      <td style="text-align:left;">IV Sem Internship Project</td>
-      <td style="text-align:left;">nil</td>
-      <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/AI-Based-Student-Attentiveness-Monitoring-System">source</a></td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">6</td>
-      <td style="text-align:left;">Web Platform for Street Vendor</td>
-      <td style="text-align:left;">React + Django + SQLite + Render</td>
-      <td style="text-align:left;">Completed</td>
-      <td style="text-align:left;">Online platform like WhatsApp for business communication</td>
-      <td style="text-align:left;">48 Hours Tutedude’s Web Development Hackathon '1.0</td>
-      <td style="text-align:left;"><a href="https://freshlink-main.netlify.app/">deployment</a></td>
-      <td style="text-align:left;"><a href="https://github.com/lingaa005/freshlink-final-code">source</a></td>
-    </tr>
-    <tr>
-      <td style="text-align:center;">7</td>
-      <td style="text-align:left;">AI Based Food Nutrition Analysis</td>
-      <td style="text-align:left;">Python + Gemini AI</td>
-      <td style="text-align:left;">Completed (2 versions)</td>
-      <td style="text-align:left;">Basic food nutrition analysis with AI</td>
-      <td style="text-align:left;">V Sem Mini Project</td>
-      <td style="text-align:left;">nil</td>
-      <td style="text-align:left;">
-        <a href="https://github.com/Kamalesh-SureshKumar/nutrition-analyzer-flash">1. Nutrition Analyzer Flash</a><br>
-        <a href="https://github.com/Kamalesh-SureshKumar/nutrition-analyzer-pro">2. Nutrition Analyzer Pro</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+    <table>
+        <thead>
+            <tr>
+                <th style="text-align:center;">Sl. No.</th>
+                <th style="text-align:center;">Project Title</th>
+                <th style="text-align:center;">Tools / Tech Stack</th>
+                <th style="text-align:center;">Status</th>
+                <th style="text-align:center;">Description</th>
+                <th style="text-align:center;">Where I Got It</th>
+                <th style="text-align:center;">Deployment Link</th>
+                <th style="text-align:center;">Source Code Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="text-align:center;">1</td>
+                <td style="text-align:left;">Money Transfer System</td>
+                <td style="text-align:left;">MySQL + Java</td>
+                <td style="text-align:left;">In Progress</td>
+                <td style="text-align:left;">Basic practice for money transfers</td>
+                <td style="text-align:left;">III Sem Mini Project</td>
+                <td style="text-align:left;">`nil`</td>
+                <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/Money-Transfer-System">source</a></td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">2</td>
+                <td style="text-align:left;">Real Time Credit Risk Analysis</td>
+                <td style="text-align:left;">HTML + CSS</td>
+                <td style="text-align:left;">In Research & Progress</td>
+                <td style="text-align:left;">Alternative score analyzer for loan approval</td>
+                <td style="text-align:left;">24 Hours Shaastra Hackathon '25</td>
+                <td style="text-align:left;">`nil`</td>
+                <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/REAL-TIME-CREDIT-RISK-ANALYSIS">source</a></td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">3</td>
+                <td style="text-align:left;">AI Based Credit Score & Loan Application</td>
+                <td style="text-align:left;">MERN</td>
+                <td style="text-align:left;">In Progress & Research</td>
+                <td style="text-align:left;">Platform for alternative credit scoring for loan approvals</td>
+                <td style="text-align:left;">IV Sem Mini Project</td>
+                <td style="text-align:left;">`nil`</td>
+                <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/AI-Based-Credit-Score-Loan-Application">source</a></td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">4</td>
+                <td style="text-align:left;">Student Counseling System</td>
+                <td style="text-align:left;">MERN</td>
+                <td style="text-align:left;">In Research</td>
+                <td style="text-align:left;">Online counseling system for students</td>
+                <td style="text-align:left;">IV Sem Mini Project</td>
+                <td style="text-align:left;">`nil`</td>
+                <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/Student-Counseling-System">source</a></td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">5</td>
+                <td style="text-align:left;">AI Based Student Attentiveness Monitor</td>
+                <td style="text-align:left;">Python + ML/DL</td>
+                <td style="text-align:left;">Completed</td>
+                <td style="text-align:left;">Student attentiveness monitor for online classes</td>
+                <td style="text-align:left;">IV Sem Internship Project</td>
+                <td style="text-align:left;">`nil`</td>
+                <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/AI-Based-Student-Attentiveness-Monitoring-System">source</a></td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">6</td>
+                <td style="text-align:left;">Web Platform for Street Vendor</td>
+                <td style="text-align:left;">React + Django + SQLite + Render</td>
+                <td style="text-align:left;">Completed</td>
+                <td style="text-align:left;">Online platform like WhatsApp for business communication</td>
+                <td style="text-align:left;">48 Hours Tutedude’s Web Development Hackathon '1.0</td>
+                <td style="text-align:left;"><a href="https://freshlink-main.netlify.app/">deployment</a></td>
+                <td style="text-align:left;"><a href="https://github.com/lingaa005/freshlink-final-code">source</a></td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">7</td>
+                <td style="text-align:left;">AI Based Food Nutrition Analysis</td>
+                <td style="text-align:left;">Python + Gemini AI</td>
+                <td style="text-align:left;">Completed (2 versions)</td>
+                <td style="text-align:left;">Basic food nutrition analysis with AI</td>
+                <td style="text-align:left;">V Sem Mini Project</td>
+                <td style="text-align:left;">`nil`</td>
+                <td style="text-align:left;">
+                    <a href="https://github.com/Kamalesh-SureshKumar/nutrition-analyzer-flash">1. Nutrition Analyzer Flash</a><br>
+                    <a href="https://github.com/Kamalesh-SureshKumar/nutrition-analyzer-pro">2. Nutrition Analyzer Pro</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 
-> _Note:_ Replacement for `nil` will be done once the project is completed...
+> Note: A replacement for `nil` will be implemented once the project is complete.
 
 
 
