@@ -31,9 +31,9 @@
 
 ## 📞 Contact
 
-- 📱 Phone: +91 636 963 8817  
+- 📱 Phone: [Call Me Buddy](tel:+916369638817)  
 - 📧 Email: <a href="https://mail.google.com/mail/?view=cm&to=kamalsuresh2005@gmail.com" target="_blank" >kamalsuresh2005@gmail.com</a>  
-- 🏠 Address: No. 1A, H. B. Nagar, Near Masudhi, Melnallathur, Thiruvallur - 602 002  
+- 🏠 Address: [No. 1A, H. B. Nagar, Near Masudhi, Melnallathur, Thiruvallur - 602 002](https://maps.app.goo.gl/783vC9nEZobrHfku9)
 - 🔗 Personal GitHub: [Mini Projects, Personal Projects](https://github.com/Kamalesh-SureshKumar)
 - 🔗 College GitHub: [Mini Projects, Records](https://github.com/KamaleshSP)
 
