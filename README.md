@@ -93,7 +93,7 @@
                 <td style="text-align:left;">In Progress</td>
                 <td style="text-align:left;">Basic practice for money transfers</td>
                 <td style="text-align:left;">III Sem Mini Project</td>
-                <td style="text-align:left;">`nil`</td>
+                <td style="text-align:left;">nil</td>
                 <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/Money-Transfer-System">source</a></td>
             </tr>
             <tr>
@@ -102,8 +102,8 @@
                 <td style="text-align:left;">HTML + CSS</td>
                 <td style="text-align:left;">In Research & Progress</td>
                 <td style="text-align:left;">Alternative score analyzer for loan approval</td>
-                <td style="text-align:left;">24 Hours Shaastra Hackathon '25</td>
-                <td style="text-align:left;">`nil`</td>
+                <td style="text-align:left;">24 Hours IITM's Shaastra Hackathon'25</td>
+                <td style="text-align:left;">nil</td>
                 <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/REAL-TIME-CREDIT-RISK-ANALYSIS">source</a></td>
             </tr>
             <tr>
@@ -113,7 +113,7 @@
                 <td style="text-align:left;">In Progress & Research</td>
                 <td style="text-align:left;">Platform for alternative credit scoring for loan approvals</td>
                 <td style="text-align:left;">IV Sem Mini Project</td>
-                <td style="text-align:left;">`nil`</td>
+                <td style="text-align:left;">nil</td>
                 <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/AI-Based-Credit-Score-Loan-Application">source</a></td>
             </tr>
             <tr>
@@ -123,7 +123,7 @@
                 <td style="text-align:left;">In Research</td>
                 <td style="text-align:left;">Online counseling system for students</td>
                 <td style="text-align:left;">IV Sem Mini Project</td>
-                <td style="text-align:left;">`nil`</td>
+                <td style="text-align:left;">nil</td>
                 <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/Student-Counseling-System">source</a></td>
             </tr>
             <tr>
@@ -133,7 +133,7 @@
                 <td style="text-align:left;">Completed</td>
                 <td style="text-align:left;">Student attentiveness monitor for online classes</td>
                 <td style="text-align:left;">IV Sem Internship Project</td>
-                <td style="text-align:left;">`nil`</td>
+                <td style="text-align:left;">nil</td>
                 <td style="text-align:left;"><a href="https://github.com/Kamalesh-SureshKumar/AI-Based-Student-Attentiveness-Monitoring-System">source</a></td>
             </tr>
             <tr>
@@ -142,7 +142,7 @@
                 <td style="text-align:left;">React + Django + SQLite + Render</td>
                 <td style="text-align:left;">Completed</td>
                 <td style="text-align:left;">Online platform like WhatsApp for business communication</td>
-                <td style="text-align:left;">48 Hours Tutedude’s Web Development Hackathon '1.0</td>
+                <td style="text-align:left;">48 Hours Tutedude’s Web Development Hackathon'1.0</td>
                 <td style="text-align:left;"><a href="https://freshlink-main.netlify.app/">deployment</a></td>
                 <td style="text-align:left;"><a href="https://github.com/lingaa005/freshlink-final-code">source</a></td>
             </tr>
@@ -153,7 +153,7 @@
                 <td style="text-align:left;">Completed (2 versions)</td>
                 <td style="text-align:left;">Basic food nutrition analysis with AI</td>
                 <td style="text-align:left;">V Sem Mini Project</td>
-                <td style="text-align:left;">`nil`</td>
+                <td style="text-align:left;">nil</td>
                 <td style="text-align:left;">
                     <a href="https://github.com/Kamalesh-SureshKumar/nutrition-analyzer-flash">1. Nutrition Analyzer Flash</a><br>
                     <a href="https://github.com/Kamalesh-SureshKumar/nutrition-analyzer-pro">2. Nutrition Analyzer Pro</a>
@@ -165,7 +165,100 @@
 
 > Note: A replacement for `nil` will be implemented once the project is complete.
 
+<h1 align="center">Future Projects</h1>
+<div>
+    <table>
+        <thead>
+            <tr>
+                <th style="text-align:center;">Sl. No.</th>
+                <th style="text-align:center;">Project Title</th>
+                <th style="text-align:center;">Tools / Tech Stack</th>
+                <th style="text-align:center;">Status</th>
+                <th style="text-align:center;">Description</th>
+                <th style="text-align:center;">Where I Get It</th>
+                <th style="text-align:center;">Deployment Link</th>
+                <th style="text-align:center;">Source Code Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="text-align:center;">1</td>
+                <td style="text-align:left;">Time Table and Attendance Tracking System</td>
+                <td style="text-align:left;">To Be Decided[But It will be flexible to both Android and Ios]</td>
+                <td style="text-align:left;">Yet To Start</td>
+                <td style="text-align:left;">Basic application to track daily time table and attendance</td>
+                <td style="text-align:left;">Solution for a problem that we faced during Vth Sem in my College</td>
+                <td style="text-align:left;">nil</td>
+                <td style="text-align:left;">nil</td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">2</td>
+                <td style="text-align:left;">Development of Platform Viyoga Innovation</td>
+                <td style="text-align:left;">React + DJango</td>
+                <td style="text-align:left;">In Research & Progress</td>
+                <td style="text-align:left;">nil</td>
+                <td style="text-align:left;">Internship Project as solution</td>
+                <td style="text-align:left;">nil</td>
+                <td style="text-align:left;">I may not have rights to share it</td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">3</td>
+                <td style="text-align:left;">LI-FI Project - Developed, Hacked and safe gaurd it</td>
+                <td style="text-align:left;">IoT + Somce Compoenets</td>
+                <td style="text-align:left;">In Progress & Research</td>
+                <td style="text-align:left;">Find a LoopHole and Proposed Solutions</td>
+                <td style="text-align:left;">Project Done With Aethras Academy</td>
+                <td style="text-align:left;">nil</td>
+                <td style="text-align:left;">I may not have rights to share it</td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">4</td>
+                <td style="text-align:left;">Live Website For Aethras Academy</td>
+                <td style="text-align:left;">React + DJango</td>
+                <td style="text-align:left;">In Research & Progress</td>
+                <td style="text-align:left;">Online platform for Aethras's portfolio and learning Website for students</td>
+                <td style="text-align:left;">Project Given By Aethras Academy Founder</td>
+                <td style="text-align:left;">nil</td>
+                <td style="text-align:left;">I may not have rights to share it</td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">5</td>
+                <td style="text-align:left;">Project unknown going to done with Infosys SpringBoard</td>
+                <td style="text-align:left;">Unknown</td>
+                <td style="text-align:left;">Yet to Start</td>
+                <td style="text-align:left;">Surprise to me itself</td>
+                <td style="text-align:left;">Infosys SpringBoard Internship Project</td>
+                <td style="text-align:left;">unknown</td>
+                <td style="text-align:left;">unknown</td>
+            </tr>
+            <!-- <tr>
+                <td style="text-align:center;">6</td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">7</td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+            </tr> -->
+        </tbody>
+    </table>
+</div>
 
+> Note:
+> 1. A replacement for `nil` will be implemented once the project is complete.
+> 2. A replacement for `unknown` will be revealed once I get to know what I am doing to do.
+> 3. A replacement for `I may not have rights to share it` may or may not occur, as it has restrictions.
 
 ---
 
