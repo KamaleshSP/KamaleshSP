@@ -314,23 +314,23 @@
             </tr>
             <tr>
                 <td style="text-align:center;">4</td>
-                <td style="text-align:left;"></td>
-                <td style="text-align:left;"></td>
-                <td style="text-align:left;"></td>
-                <td style="text-align:left;"></td>
-                <td style="text-align:left;"></td>
-                <td style="text-align:left;"></td>
-                <td style="text-align:left;"></td>
+                <td style="text-align:left;">Smart India Hackathon(Internal) 2025</td>
+                <td style="text-align:left;">Online</td>
+                <td style="text-align:left;">Participated in Idea Proposal</td>
+                <td style="text-align:left;">-</td>
+                <td style="text-align:left;">Real-Time Public Transport Tracking for Smart Cities</td>
+                <td style="text-align:left;">Team Member</td>
+                <td style="text-align:left;">Elimited in Idea Proposal</td>
             </tr>
             <tr>
                 <td style="text-align:center;">5</td>
-                <td style="text-align:left;"></td>
-                <td style="text-align:left;"></td>
-                <td style="text-align:left;"></td>
-                <td style="text-align:left;"></td>
-                <td style="text-align:left;"></td>
-                <td style="text-align:left;"></td>
-                <td style="text-align:left;"></td>
+                <td style="text-align:left;">Zyntra'25(InterNational Level Hackathon)</td>
+                <td style="text-align:left;">Online with 1 Round and Offline with 2 Rounds</td>
+                <td style="text-align:left;">Part of the Organizers</td>
+                <td style="text-align:left;">36 Hours</td>
+                <td style="text-align:left;">Proposed 5 Domains with there own Problem Statements</td>
+                <td style="text-align:left;">Event Team Organizers</td>
+                <td style="text-align:left;">Successfully Completed</td>
             </tr>
             <tr>
                 <td style="text-align:center;">6</td>
