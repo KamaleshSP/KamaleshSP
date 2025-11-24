@@ -168,7 +168,6 @@
 ---
 
 <h1 align="center">Future Projects</h1>
-
 <div>
     <table>
         <thead>
@@ -262,6 +261,120 @@
 > 1. A replacement for `nil` will be implemented once the project is complete.
 > 2. A replacement for `unknown` will be revealed once I get to know what I am doing to do.
 > 3. A replacement for `I may not have rights to share it` may or may not occur, as it has restrictions.
+
+---
+
+## 📝 Experience
+
+<h1 align="center">Hackathon Experience</h1>
+<div>
+    <table>
+        <thead>
+            <tr>
+                <th style="text-align:center;">Sl. No.</th>
+                <th style="text-align:center;">Name</th>
+                <th style="text-align:center;">Place</th>
+                <th style="text-align:center;">Part of</th>
+                <th style="text-align:center;">Duration</th>
+                <th style="text-align:center;">Project I Got</th>
+                <th style="text-align:center;">Role</th>
+                <th style="text-align:center;">Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="text-align:center;">1</td>
+                <td style="text-align:left;">IITM's Shaastra'25</td>
+                <td style="text-align:left;">Offline Hackathon in IITM</td>
+                <td style="text-align:left;">Participated in Hackathon</td>
+                <td style="text-align:left;">24 Hours</td>
+                <td style="text-align:left;">Real Time Credit Risk Analysis</td>
+                <td style="text-align:left;">Team Member</td>
+                <td style="text-align:left;">Finalist</td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">2</td>
+                <td style="text-align:left;">ISRO Bharatiya Antariksh Hackathon 2025</td>
+                <td style="text-align:left;">Online</td>
+                <td style="text-align:left;">Participated in Idea Proposal</td>
+                <td style="text-align:left;">-</td>
+                <td style="text-align:left;">AI-powered system for automatically detecting and mapping glacial lakes, road centerlines, and urban drainage networks from satellite imagery</td>
+                <td style="text-align:left;">Team Lead</td>
+                <td style="text-align:left;">Elimited in Idea Proposal</td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">3</td>
+                <td style="text-align:left;">Tutedude Web Development Hackathon 2025</td>
+                <td style="text-align:left;">Online Hackathon in UnStop</td>
+                <td style="text-align:left;">Participated in Hackathon</td>
+                <td style="text-align:left;">48 Hours</td>
+                <td style="text-align:left;">Web Platform for Street Vendor</td>
+                <td style="text-align:left;">Team Member</td>
+                <td style="text-align:left;">Finalist</td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">4</td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">5</td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">6</td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">7</td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+            </tr>
+            <tr>
+                <td style="text-align:center;">8</td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+            </tr>
+            <!-- <tr>
+                <td style="text-align:center;">9</td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+                <td style="text-align:left;"></td>
+            </tr> -->
+        </tbody>
+    </table>
+</div>
 
 ---
 
