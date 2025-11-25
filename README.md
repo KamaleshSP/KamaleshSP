@@ -159,6 +159,16 @@
                     <a href="https://github.com/Kamalesh-SureshKumar/nutrition-analyzer-pro">2. Nutrition Analyzer Pro</a>
                 </td>
             </tr>
+            <tr>
+                <td style="text-align:center;">8</td>
+                <td style="text-align:left;">LI-FI Project - Developed, Hacked and safe gaurd it</td>
+                <td style="text-align:left;">IoT + Somce Compoenets</td>
+                <td style="text-align:left;">In Progress & Research</td>
+                <td style="text-align:left;">Find a LoopHole and Proposed Solutions</td>
+                <td style="text-align:left;">Project Done With Aethras Academy</td>
+                <td style="text-align:left;">nil</td>
+                <td style="text-align:left;">nil</td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -204,17 +214,7 @@
                 <td style="text-align:left;">I may not have rights to share it</td>
             </tr>
             <tr>
-                <td style="text-align:center;">3</td>
-                <td style="text-align:left;">LI-FI Project - Developed, Hacked and safe gaurd it</td>
-                <td style="text-align:left;">IoT + Somce Compoenets</td>
-                <td style="text-align:left;">In Progress & Research</td>
-                <td style="text-align:left;">Find a LoopHole and Proposed Solutions</td>
-                <td style="text-align:left;">Project Done With Aethras Academy</td>
-                <td style="text-align:left;">nil</td>
-                <td style="text-align:left;">I may not have rights to share it</td>
-            </tr>
-            <tr>
-                <td style="text-align:center;">4</td>
+                <td style="text-align:center;">5</td>
                 <td style="text-align:left;">Live Website For Aethras Academy</td>
                 <td style="text-align:left;">React + DJango</td>
                 <td style="text-align:left;">In Research & Progress</td>
@@ -224,7 +224,7 @@
                 <td style="text-align:left;">I may not have rights to share it</td>
             </tr>
             <tr>
-                <td style="text-align:center;">5</td>
+                <td style="text-align:center;">6</td>
                 <td style="text-align:left;">Project unknown going to done with Infosys SpringBoard</td>
                 <td style="text-align:left;">Unknown</td>
                 <td style="text-align:left;">Yet to Start</td>
@@ -234,7 +234,7 @@
                 <td style="text-align:left;">unknown</td>
             </tr>
             <!-- <tr>
-                <td style="text-align:center;">6</td>
+                <td style="text-align:center;">7</td>
                 <td style="text-align:left;"></td>
                 <td style="text-align:left;"></td>
                 <td style="text-align:left;"></td>
@@ -244,7 +244,7 @@
                 <td style="text-align:left;"></td>
             </tr>
             <tr>
-                <td style="text-align:center;">7</td>
+                <td style="text-align:center;">8</td>
                 <td style="text-align:left;"></td>
                 <td style="text-align:left;"></td>
                 <td style="text-align:left;"></td>
