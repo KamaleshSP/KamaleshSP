@@ -162,7 +162,7 @@
             <tr>
                 <td style="text-align:center;">8</td>
                 <td style="text-align:left;">LI-FI Project - Developed, Hacked and safe gaurd it</td>
-                <td style="text-align:left;">IoT + Somce Compoenets</td>
+                <td style="text-align:left;">IoT Compoenets(Arduino uno) + C++</td>
                 <td style="text-align:left;">In Progress & Research</td>
                 <td style="text-align:left;">Find a LoopHole and Proposed Solutions</td>
                 <td style="text-align:left;">Project Done With Aethras Academy</td>
