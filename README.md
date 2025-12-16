@@ -402,6 +402,12 @@
       <img src="https://github-readme-stats.vercel.app/api?username=KamaleshSP&show_icons=true&locale=en" alt="stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KamaleshSP&layout=compact" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=KamaleshSP" height="165" />
+</p>
+
 ---
 
 >A great developer isn’t the one who writes the most code, but the one who removes the most unnecessary lines.
